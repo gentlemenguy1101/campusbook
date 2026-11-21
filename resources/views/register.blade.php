@@ -38,6 +38,7 @@
                     <input type="password" class="form-control">
                 </div>
                 <button class="btn btn-primary w-100">Register</button>
+                <p class="text-center mt-3 mb-0">Already have an account? <a href="{{ url('/login') }}">Log in</a></p>
             </div>
         </div>
     </div>
